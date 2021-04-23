@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Laura
 - 👀 I’m interested in cybersecurity and green technologies
 - 🌱 I’m currently a student at 42 Paris. The syllabus we're following covers a range of programming and networks topics
-- 📫 You can contact me on Twitter (@laura_yie), LinkedIn (Laura Yie) or, for 42 students, via the 42 Discord or Slack (search for lyie).
+- 📫 You can contact me on Twitter (@laura_yie), LinkedIn (Laura Yie) or, for 42 students, via the 42 Discord or Slack (search for lyie)
 
 <!---
 lyie28/lyie28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
