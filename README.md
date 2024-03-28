@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Laura
-- 🔒 I’m currently a software engineer for Mithril Security and lead DevRel for LaVague. 
+- 🔒 I’m currently a software engineer for Mithril Security & the LaVague project. 
 - :computer: Alumni of 42 Paris's software engineering programme
 - 👀 I’m interested in AI & security 
 - 📫 You can contact me on LinkedIn (Laura Yie)!
