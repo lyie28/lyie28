@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Laura
-- :computer: I’m currently a student at 42 Paris. The syllabus covers a range of programming and networking topics
-I will be sharing some of my projects on here.
-- 👀 I’m interested in cybersecurity and green technologies
-- 📫 You can contact me on Twitter (@laura_yie), LinkedIn (Laura Yie) or, for 42 students, via the 42 Discord or Slack (search for lyie)
+- 🔒 I’m currently a software engineer for Mithril Security and lead DevRel for LaVague. 
+- :computer: Alumni of 42 Paris's software engineering programme
+- 👀 I’m interested in AI & security 
+- 📫 You can contact me on LinkedIn (Laura Yie)!
 - 🗺️ Human languages: English, French & Spanish
 
 <h1> Programming languages and technologies <h1>
